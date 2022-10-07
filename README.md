@@ -1,0 +1,2 @@
+# pythonpratice
+daily pratice
