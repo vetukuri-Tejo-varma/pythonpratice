@@ -1,0 +1,6 @@
+print("Enter list of values:")
+tpl=( int(val) for val in input().split()  )
+print("content =",tpl)
+tp=tuple(tpl)
+print(type(tp))
+print("content =",tp)
